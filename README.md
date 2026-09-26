@@ -32,7 +32,7 @@ Calculate age based on date of birth.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/04-Age-Calculator/)
+[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/03-Age-Calculator/)
 
 ---
 
@@ -42,7 +42,7 @@ A calculator for converting currencies.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/03-Exchange-Rate-Calculator/)
+[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/04-Exchange-Rate-Calculator/)
 
 ## 🛠️ Technologies Used
 
