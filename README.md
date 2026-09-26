@@ -1,32 +1,48 @@
 # 🌐 Web Development Projects
 
-This repository contains my web development projects created using HTML, CSS, and JavaScript.
+A collection of my web development projects built using HTML, CSS and JavaScript.
+
+---
 
 ## 📂 Projects
 
-### 01. Simple Calculator
+### 1. 🧮 Simple Calculator
 
-A basic calculator that performs arithmetic operations.
-
-**Technologies:** HTML, CSS, JavaScript
-
-### 02. Modern Calculator
-
-A modern calculator with an improved user interface.
+A basic calculator built using HTML, CSS and JavaScript.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 03. Age Calculator
+[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/01-Simple-Calculator/)
 
-A calculator that calculates age based on date of birth.
+---
+
+### 2. 🧮 Modern Calculator
+
+A modern and responsive calculator with a stylish user interface.
+
+**Technologies:** HTML, CSS, JavaScript
+
+[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/02-Modern-Calculator/)
+
+---
+
+### 3. 🎂 Age Calculator
+
+Calculate age based on date of birth.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### 04. Exchange Rate Calculator
+[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/04-Age-Calculator/)
 
-A calculator for currency conversion.
+---
+
+### 4. 💱 Exchange Rate Calculator
+
+A calculator for converting currencies.
 
 **Technologies:** HTML, CSS, JavaScript
+
+[🚀 Live Demo](https://brihanshu80.github.io/Web-Development-Projects/03-Exchange-Rate-Calculator/)
 
 ## 🛠️ Technologies Used
 
