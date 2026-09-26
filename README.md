@@ -1,39 +1,39 @@
-# Simple Calculator
+# 🌐 Web Development Projects
 
-A simple and responsive calculator built using HTML, CSS, and JavaScript.
+This repository contains my web development projects created using HTML, CSS, and JavaScript.
 
-## Features
+## 📂 Projects
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Percentage
-- Delete button
-- Clear button
-- Responsive design
+### 01. Simple Calculator
 
-## Technologies Used
+A basic calculator that performs arithmetic operations.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 02. Modern Calculator
+
+A modern calculator with an improved user interface.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 03. Age Calculator
+
+A calculator that calculates age based on date of birth.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 04. Exchange Rate Calculator
+
+A calculator for currency conversion.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Project Structure
-
-Calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-## How to Run
-
-1. Download or clone this repository.
-2. Open the project folder.
-3. Open `index.html` in your browser.
-
-## Author
+## 👨‍💻 Author
 
 Brihanshu
